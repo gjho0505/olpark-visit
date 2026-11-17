@@ -50,4 +50,4 @@ window.EVENTS = [
   "time": "2026년 12월 5일(토) 오후 6시 2026년 12월 6일(일) 오후 5시"
  }
 ];
-window.EVENTS_CHECKED = "2026-11-17 12:42";
+window.EVENTS_CHECKED = "2026-11-17 12:43";
