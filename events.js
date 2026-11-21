@@ -55,6 +55,13 @@ window.EVENTS = [
   "from": "2026-12-11",
   "to": "2026-12-13",
   "time": "2026년 12월 11일(금) 오후 7시 2026년 12월 12일(토) 오후 5시 2026년 12월 13일(일) 오후 4시"
+ },
+ {
+  "name": "2026 DAVICHI CONCERT 〈IN OUR SCENES〉",
+  "venue": "KSPO DOME",
+  "from": "2026-12-12",
+  "to": "2026-12-13",
+  "time": "2026년 12월 12일(토) 6시 / 2026년 12월 13() 5시"
  }
 ];
-window.EVENTS_CHECKED = "2026-11-20 11:01";
+window.EVENTS_CHECKED = "2026-11-21 10:58";
